@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>882266510112-tfqnfht3hj4tr01bo44vonv04426iikd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.882266510112-tfqnfht3hj4tr01bo44vonv04426iikd</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>882266510112-sot7t3bekmvsc78vc97jiig8p5s3imkp.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAY2Gb2mZDFL8mXbjLISrem1jD6tuIbGx8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>882266510112</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.knoworganization.SafeAir</string>
+	<key>PROJECT_ID</key>
+	<string>safeair-b0c14</string>
+	<key>STORAGE_BUCKET</key>
+	<string>safeair-b0c14.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:882266510112:ios:444dd725e9e2979406bd45</string>
+	<key>DATABASE_URL</key>
+	<string>https://safeair-b0c14-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
